@@ -2,10 +2,6 @@ package com.keaplogik.examples.model.animals;
 
 import java.awt.Color;
 
-/**
- *
- * @author keaplogik
- */
 public interface Animal {
     
     public enum AnimalClass {

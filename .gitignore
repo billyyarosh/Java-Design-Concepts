@@ -1,5 +1,12 @@
-*
-!src
-!src/*
-!README.md
-!.gitignore
+build
+target
+log.roo
+.project
+.classpath
+.settings
+.springBeans
+.DS_Store
+*.iml
+.idea
+dist
+nbproject

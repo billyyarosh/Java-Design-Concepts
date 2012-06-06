@@ -17,7 +17,7 @@ public class SimpleAnimal implements Animal {
     private final AnimalClass animalClass;
     
     public SimpleAnimal(){
-       throw new AssertionError("Do not implement generic constructor on Mammels"); 
+       throw new AssertionError("Do not implement generic constructor on SimpleAnimal"); 
     }
 
     public SimpleAnimal(final AnimalClass animalClass, final String species,
