@@ -1,0 +1,14 @@
+John,1
+John,1
+John,1
+John,1
+John,1
+John,1
+John,1
+Dan,13
+Dan,13
+Dan,10
+Bob,11
+Bob,19
+Barb,66
+Barb,24
