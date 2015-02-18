@@ -6,7 +6,7 @@ import com.keaplogik.examples.model.animals.Animal;
  *
  * @author keaplogik
  */
-public interface Bird extends Animal {
+public interface Bird extends Mammal {
     
     
     
