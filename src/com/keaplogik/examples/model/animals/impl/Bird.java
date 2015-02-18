@@ -1,6 +1,6 @@
 package com.keaplogik.examples.model.animals.impl;
 
-import com.keaplogik.examples.model.animals.Animal;
+import com.keaplogik.examples.model.animals.Mammal;
 
 /**
  *
